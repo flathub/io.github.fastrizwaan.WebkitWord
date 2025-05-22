@@ -21,5 +21,5 @@ modules:
     sources:
       - type: git
         tag: v0.1
-        commit: 574d6f874d9374e45011c0de1c44778845d1ef80
+        commit: fcc587e623ca5b4b4a5423bead3c8662a92f2bf5
         url: https://github.com/fastrizwaan/WebkitWord.git
