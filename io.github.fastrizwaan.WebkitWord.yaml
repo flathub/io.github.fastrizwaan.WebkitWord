@@ -21,6 +21,6 @@ modules:
       - ./setup -i --prefix=/app 
     sources:
       - type: git
-        tag: v0.1
-        commit: 90e67e40a7c2e564f7fdc1abcfa0cc3ce527c42a
+        tag: v0.2
+        commit: dbd4ade4e47262768199866da2f4a372feb3bb7f
         url: https://github.com/fastrizwaan/WebkitWord.git
