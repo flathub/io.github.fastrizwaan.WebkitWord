@@ -1,7 +1,7 @@
 id: io.github.fastrizwaan.WebkitWord
 sdk: org.gnome.Sdk
 runtime: org.gnome.Platform
-runtime-version: '48'
+runtime-version: '50'
 command: webkitword
 base: org.libreoffice.LibreOffice
 base-version: stable
